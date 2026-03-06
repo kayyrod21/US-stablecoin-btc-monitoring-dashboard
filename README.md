@@ -7,12 +7,12 @@ It is designed to distinguish between two very different market structures. For 
 ## Repository
 
 **GitHub Repository:**  
-[Insert GitHub Repository Link Here]
+[https://github.com/kayyrod21/US-stablecoin-btc-monitoring-dashboard
 
 ## Live App
 
 **Live Dashboard URL:**  
-[Insert Live App Link Here]
+[https://us-stablecoin-btc-monitoring-dashboard.streamlit.app/
 
 ## Overview
 
